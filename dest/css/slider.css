@@ -1,0 +1,4 @@
+body:before {
+  white-space: pre;
+  font-family: monospace;
+  content: "Error: Undefined variable: \"$whiteColor\".\A         on line 5 of src/css/slider.scss\A \A 1: \A 2: \A 3: \A 4: a {\A 5:   color: $whiteColor;\A 6:   text-decoration: none;\A 7: \A 8:   &:hover {\A 9:     color: $hover_slider;\A 10:   }"; }

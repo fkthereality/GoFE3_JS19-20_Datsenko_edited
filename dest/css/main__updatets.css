@@ -1,0 +1,5 @@
+
+body:before {
+  white-space: pre;
+  font-family: monospace;
+  content: "Error: Undefined variable: \"$color_grey\".\A         on line 15 of src/css/main__updatets.scss\A \A 10:     .advantage__number {\A 11:       float: left;\A 12:       margin-right:32px;\A 13:       width: 65px;\A 14:       height: 61px;\A 15:       color: $color_grey;\A 16:       opacity: 0.1;\A 17:       font-family: \"Myriad Pro\";\A 18:       font-size: 90px;\A 19: \A 20:     }"; }

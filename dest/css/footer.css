@@ -1,0 +1,5 @@
+
+body:before {
+  white-space: pre;
+  font-family: monospace;
+  content: "Error: Undefined variable: \"$width_header\".\A         on line 6 of src/css/footer.scss\A \A 1: footer {\A 2:   width: 100%;\A 3:   height: 386px;\A 4:   background-color: #2a2d32;\A 5:   .wrapper_art {\A 6:     width: $width_header;\A 7:     height: $height_footer;\A 8:     margin: 0 auto;\A 9:     .footer__art {\A 10:       display: block;\A 11:       float: left;"; }

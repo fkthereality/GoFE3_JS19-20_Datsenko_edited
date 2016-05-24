@@ -1,0 +1,4 @@
+body:before {
+  white-space: pre;
+  font-family: monospace;
+  content: "Error: Undefined variable: \"$width_header\".\A         on line 8 of src/css/header.scss\A \A 3: /* ---------------------- header logo slogan -------------- */\A 4: header {\A 5:   .top__header {\A 6:     margin: 0 auto;\A 7:     height: 73px;\A 8:     width: $width_header;\A 9: \A 10:     .top__header__logo {\A 11:       position: absolute;\A 12:       top: 37px;\A 13:       left: 45px;"; }
